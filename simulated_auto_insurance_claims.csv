@@ -1,0 +1,501 @@
+Claim_ID,Claim_Date,Province,Claim_Type,Submission_Channel,Claim_Status,Claim_Amount_CAD,Processing_Days,Customer_Satisfaction,Policy_Tenure_Years,Vehicle_Age_Years
+CLM-0001,2025-02-02,British Columbia,Collision,Online,Pending,3345.17,25,3,1.7,20
+CLM-0002,2025-10-10,Quebec,Collision,Online,Approved,5115.06,15,1,15.1,0
+CLM-0003,2025-08-27,Alberta,Collision,Online,Under Review,9185.37,16,5,16.8,20
+CLM-0004,2025-06-10,Ontario,Comprehensive,Broker,Rejected,2627.38,1,1,4.2,7
+CLM-0005,2025-06-08,Ontario,Property Damage,Online,Approved,4431.94,2,1,9.5,2
+CLM-0006,2025-11-10,British Columbia,Collision,Mobile App,Pending,7810.96,15,3,16.7,12
+CLM-0007,2025-02-01,Quebec,Collision,Broker,Approved,10284.61,4,1,17.3,16
+CLM-0008,2025-09-12,Ontario,Weather,Mobile App,Under Review,2152.01,7,1,2.5,2
+CLM-0009,2025-03-15,Ontario,Collision,Phone,Under Review,4859.46,9,4,6.4,0
+CLM-0010,2025-02-04,British Columbia,Comprehensive,Mobile App,Under Review,2291.59,9,4,12.6,18
+CLM-0011,2025-07-12,Ontario,Property Damage,Online,Approved,3224.47,18,2,4.1,19
+CLM-0012,2025-12-23,Quebec,Collision,Phone,Approved,5099.33,14,4,6.0,3
+CLM-0013,2025-09-26,Ontario,Collision,Phone,Approved,2218.29,2,4,0.6,18
+CLM-0014,2025-10-05,Ontario,Collision,Mobile App,Approved,5314.86,14,2,2.9,19
+CLM-0015,2025-09-19,Manitoba,Weather,Phone,Approved,13023.07,4,4,10.2,20
+CLM-0016,2025-10-14,Ontario,Collision,Mobile App,Approved,6532.12,10,3,11.8,4
+CLM-0017,2025-07-07,Ontario,Collision,Online,Under Review,1923.16,5,5,11.8,12
+CLM-0018,2025-02-16,Ontario,Collision,Mobile App,Approved,2531.77,3,1,14.1,20
+CLM-0019,2025-11-03,Ontario,Collision,Phone,Approved,4702.57,4,2,7.6,18
+CLM-0020,2025-06-14,Ontario,Property Damage,Phone,Rejected,1619.09,7,2,5.1,12
+CLM-0021,2025-07-02,Ontario,Collision,Mobile App,Pending,9950.58,20,2,0.5,4
+CLM-0022,2025-05-16,Ontario,Comprehensive,Phone,Rejected,1312.23,5,5,3.9,1
+CLM-0023,2025-03-08,Ontario,Property Damage,Phone,Pending,4130.66,25,4,5.8,5
+CLM-0024,2025-12-05,British Columbia,Weather,Broker,Under Review,1247.97,23,3,3.4,1
+CLM-0025,2025-10-13,British Columbia,Collision,Online,Pending,4654.75,28,3,0.6,4
+CLM-0026,2025-08-24,Ontario,Weather,Phone,Approved,1895.61,13,5,3.0,1
+CLM-0027,2025-05-27,Ontario,Property Damage,Online,Pending,4601.84,23,3,12.1,16
+CLM-0028,2025-10-28,Alberta,Collision,Online,Approved,8951.81,11,2,11.4,12
+CLM-0029,2025-07-19,Quebec,Theft,Mobile App,Approved,5290.3,6,1,16.9,10
+CLM-0030,2025-06-11,Quebec,Weather,Broker,Approved,7499.6,11,2,14.4,17
+CLM-0031,2025-06-14,Ontario,Collision,Phone,Approved,857.39,2,4,10.3,8
+CLM-0032,2025-03-24,Ontario,Weather,Phone,Rejected,4295.81,14,3,2.6,8
+CLM-0033,2025-02-03,Ontario,Comprehensive,Phone,Approved,4816.94,9,3,10.2,4
+CLM-0034,2025-07-22,Ontario,Property Damage,Broker,Approved,4425.71,17,3,1.3,9
+CLM-0035,2025-11-21,Alberta,Weather,Mobile App,Approved,5106.17,21,5,7.9,3
+CLM-0036,2025-01-24,Ontario,Comprehensive,Mobile App,Under Review,5276.97,17,5,7.1,12
+CLM-0037,2025-11-10,Ontario,Theft,Phone,Approved,4652.66,19,1,7.8,20
+CLM-0038,2025-10-30,Ontario,Collision,Phone,Pending,1936.22,21,1,5.2,11
+CLM-0039,2025-04-12,Alberta,Theft,Phone,Under Review,2958.8,8,2,12.4,6
+CLM-0040,2025-08-19,Ontario,Property Damage,Phone,Approved,6284.79,2,5,15.2,14
+CLM-0041,2025-03-02,Quebec,Collision,Phone,Rejected,9306.53,2,3,13.9,17
+CLM-0042,2025-10-04,Ontario,Comprehensive,Broker,Approved,4762.0,20,5,11.4,9
+CLM-0043,2025-09-13,Manitoba,Collision,Phone,Approved,7404.3,11,4,9.8,5
+CLM-0044,2025-05-10,Ontario,Collision,Phone,Pending,8646.9,16,3,0.8,14
+CLM-0045,2025-01-25,Quebec,Collision,Phone,Under Review,6382.7,16,2,13.1,3
+CLM-0046,2025-12-21,Quebec,Collision,Phone,Approved,9809.95,7,2,9.9,20
+CLM-0047,2025-06-12,Manitoba,Collision,Online,Approved,9613.3,19,1,5.0,6
+CLM-0048,2025-11-22,Quebec,Collision,Online,Approved,19012.11,21,3,6.0,7
+CLM-0049,2025-09-05,Quebec,Property Damage,Broker,Approved,2154.49,3,2,16.9,15
+CLM-0050,2025-10-12,British Columbia,Property Damage,Phone,Pending,2180.65,28,2,11.3,0
+CLM-0051,2025-10-05,Quebec,Property Damage,Online,Pending,3834.22,17,1,8.7,4
+CLM-0052,2025-03-13,Ontario,Collision,Phone,Pending,14208.99,9,4,11.3,2
+CLM-0053,2025-05-13,Alberta,Weather,Broker,Approved,8377.15,20,5,7.6,8
+CLM-0054,2025-06-20,Alberta,Property Damage,Online,Pending,5019.93,9,3,8.6,11
+CLM-0055,2025-07-01,Quebec,Collision,Mobile App,Pending,10708.75,13,3,5.4,3
+CLM-0056,2025-01-16,Alberta,Collision,Mobile App,Pending,6575.51,8,5,8.0,7
+CLM-0057,2025-07-19,Ontario,Property Damage,Broker,Approved,2507.28,11,3,12.4,16
+CLM-0058,2025-02-26,British Columbia,Collision,Broker,Approved,16343.32,13,4,0.9,19
+CLM-0059,2025-09-29,Ontario,Comprehensive,Online,Approved,4650.71,8,3,14.4,0
+CLM-0060,2025-09-07,Ontario,Weather,Mobile App,Approved,7729.5,3,3,5.2,13
+CLM-0061,2025-12-03,Alberta,Collision,Phone,Approved,854.03,4,3,12.3,0
+CLM-0062,2025-09-29,Ontario,Collision,Mobile App,Approved,952.93,20,4,11.6,10
+CLM-0063,2025-05-14,Ontario,Weather,Phone,Rejected,4381.81,12,4,11.8,18
+CLM-0064,2025-12-20,Ontario,Property Damage,Online,Approved,1619.57,20,3,11.0,16
+CLM-0065,2025-05-30,Ontario,Collision,Online,Rejected,5694.73,8,1,17.3,4
+CLM-0066,2025-04-29,Ontario,Weather,Broker,Approved,2819.41,12,5,9.2,5
+CLM-0067,2025-11-27,Ontario,Weather,Phone,Rejected,16849.56,12,5,13.2,16
+CLM-0068,2025-05-16,British Columbia,Comprehensive,Online,Approved,6688.37,14,1,12.8,17
+CLM-0069,2025-01-28,Ontario,Property Damage,Broker,Approved,7139.28,10,2,4.4,5
+CLM-0070,2025-06-21,Manitoba,Collision,Mobile App,Pending,1071.3,16,5,5.2,0
+CLM-0071,2025-10-18,Quebec,Collision,Phone,Under Review,7906.6,17,2,7.7,9
+CLM-0072,2025-03-11,Alberta,Property Damage,Phone,Approved,2703.91,3,5,5.1,13
+CLM-0073,2025-06-18,Ontario,Collision,Online,Approved,11470.45,5,4,6.7,9
+CLM-0074,2025-02-17,Alberta,Property Damage,Broker,Pending,4538.94,28,5,7.2,19
+CLM-0075,2025-09-08,Quebec,Theft,Phone,Pending,4185.12,32,1,10.9,17
+CLM-0076,2025-06-23,British Columbia,Collision,Mobile App,Approved,2078.77,4,3,4.1,16
+CLM-0077,2025-05-01,Quebec,Property Damage,Phone,Approved,3344.61,3,3,14.5,0
+CLM-0078,2025-03-24,Alberta,Collision,Phone,Approved,9844.42,3,5,8.0,17
+CLM-0079,2025-07-26,British Columbia,Weather,Online,Under Review,9674.49,24,2,12.8,15
+CLM-0080,2025-09-02,Ontario,Collision,Online,Approved,3811.66,8,2,1.6,8
+CLM-0081,2025-12-10,British Columbia,Property Damage,Broker,Approved,11759.47,8,1,8.6,12
+CLM-0082,2025-06-09,Ontario,Comprehensive,Phone,Under Review,6947.99,5,4,0.7,17
+CLM-0083,2025-02-28,British Columbia,Comprehensive,Phone,Approved,1932.25,21,5,12.2,19
+CLM-0084,2025-10-31,Quebec,Property Damage,Mobile App,Approved,1395.64,10,1,6.3,11
+CLM-0085,2025-08-18,Ontario,Property Damage,Mobile App,Approved,2817.02,17,2,17.1,0
+CLM-0086,2025-09-13,British Columbia,Comprehensive,Mobile App,Approved,2818.73,16,2,6.0,12
+CLM-0087,2025-02-05,Ontario,Property Damage,Online,Approved,4160.83,4,5,10.2,14
+CLM-0088,2025-04-25,British Columbia,Weather,Broker,Approved,4040.72,18,3,4.8,1
+CLM-0089,2025-10-08,Ontario,Comprehensive,Mobile App,Rejected,2979.12,8,2,11.2,17
+CLM-0090,2025-10-31,Manitoba,Comprehensive,Phone,Pending,1178.54,24,2,8.5,4
+CLM-0091,2025-06-08,Ontario,Collision,Online,Approved,7346.71,6,3,6.8,18
+CLM-0092,2025-10-21,Manitoba,Theft,Mobile App,Approved,1333.72,18,2,3.8,11
+CLM-0093,2025-11-04,Quebec,Comprehensive,Phone,Approved,6961.92,20,1,2.2,6
+CLM-0094,2025-05-22,British Columbia,Comprehensive,Phone,Under Review,850.33,15,5,2.3,1
+CLM-0095,2025-11-24,Quebec,Collision,Mobile App,Approved,1442.53,3,3,18.0,0
+CLM-0096,2025-04-16,Quebec,Weather,Broker,Pending,2118.78,31,2,7.5,15
+CLM-0097,2025-03-29,Manitoba,Comprehensive,Phone,Approved,2653.62,19,4,0.2,7
+CLM-0098,2025-09-07,Ontario,Property Damage,Phone,Pending,1954.93,22,4,17.2,17
+CLM-0099,2025-08-21,British Columbia,Collision,Phone,Approved,3572.02,13,1,0.6,4
+CLM-0100,2025-02-21,Ontario,Weather,Online,Rejected,4699.44,4,1,7.7,19
+CLM-0101,2025-10-31,British Columbia,Collision,Broker,Approved,2642.03,3,1,13.0,19
+CLM-0102,2025-03-14,Ontario,Collision,Mobile App,Under Review,5801.8,28,4,16.5,2
+CLM-0103,2025-10-21,Alberta,Weather,Phone,Approved,700.92,11,4,12.9,13
+CLM-0104,2025-01-03,Alberta,Weather,Phone,Rejected,2097.59,4,4,8.5,19
+CLM-0105,2025-10-18,Alberta,Collision,Mobile App,Under Review,1395.75,22,4,17.5,6
+CLM-0106,2025-10-15,Alberta,Comprehensive,Online,Under Review,6912.57,5,3,0.9,1
+CLM-0107,2025-10-12,Quebec,Property Damage,Phone,Approved,1817.68,3,3,17.8,18
+CLM-0108,2025-08-31,Quebec,Weather,Phone,Approved,5753.66,6,4,15.3,9
+CLM-0109,2025-06-22,Alberta,Comprehensive,Broker,Approved,916.29,11,2,16.7,0
+CLM-0110,2025-09-15,British Columbia,Comprehensive,Online,Approved,8705.97,9,5,4.7,17
+CLM-0111,2025-04-12,Manitoba,Property Damage,Broker,Pending,3241.55,13,5,2.7,14
+CLM-0112,2025-10-12,Ontario,Property Damage,Phone,Under Review,3004.23,13,5,12.0,1
+CLM-0113,2025-07-22,Ontario,Theft,Broker,Under Review,1425.94,13,5,9.4,5
+CLM-0114,2025-06-17,Ontario,Comprehensive,Online,Approved,1747.1,12,2,9.5,0
+CLM-0115,2025-07-04,British Columbia,Collision,Phone,Pending,4107.39,23,1,16.7,20
+CLM-0116,2025-07-27,Ontario,Weather,Phone,Under Review,1973.21,27,3,11.2,0
+CLM-0117,2025-01-14,Quebec,Weather,Online,Under Review,7141.98,25,4,5.7,16
+CLM-0118,2025-02-21,British Columbia,Theft,Online,Approved,4486.78,7,4,7.3,10
+CLM-0119,2025-03-31,Ontario,Collision,Online,Approved,2442.55,20,2,2.6,12
+CLM-0120,2025-02-11,Quebec,Collision,Phone,Rejected,7940.89,8,2,3.6,17
+CLM-0121,2025-06-10,Quebec,Property Damage,Online,Approved,2360.86,5,3,2.8,18
+CLM-0122,2025-09-01,Ontario,Collision,Mobile App,Approved,7715.78,8,5,14.6,2
+CLM-0123,2025-08-27,Ontario,Weather,Phone,Under Review,2734.27,23,1,12.7,0
+CLM-0124,2025-06-21,Ontario,Comprehensive,Mobile App,Under Review,5003.42,25,2,9.6,2
+CLM-0125,2025-11-09,Ontario,Property Damage,Mobile App,Under Review,2305.31,14,2,6.9,14
+CLM-0126,2025-07-26,Ontario,Weather,Online,Rejected,7143.55,3,5,12.1,11
+CLM-0127,2025-01-29,Manitoba,Comprehensive,Broker,Approved,929.42,5,3,14.7,1
+CLM-0128,2025-10-07,Alberta,Collision,Mobile App,Approved,1964.13,4,1,15.9,4
+CLM-0129,2025-07-29,Ontario,Property Damage,Broker,Approved,2743.46,15,2,9.9,11
+CLM-0130,2025-08-20,British Columbia,Property Damage,Phone,Approved,1874.21,12,1,14.8,15
+CLM-0131,2025-07-26,Alberta,Comprehensive,Phone,Approved,2656.21,11,3,9.3,7
+CLM-0132,2025-07-22,Manitoba,Property Damage,Online,Pending,4566.6,26,5,8.6,19
+CLM-0133,2025-02-03,Quebec,Weather,Phone,Approved,2880.31,18,3,15.6,20
+CLM-0134,2025-07-24,Alberta,Comprehensive,Mobile App,Rejected,4397.06,12,5,7.1,16
+CLM-0135,2025-10-18,Ontario,Collision,Mobile App,Approved,2561.77,4,4,7.2,9
+CLM-0136,2025-04-21,Manitoba,Comprehensive,Online,Approved,807.08,13,5,5.6,18
+CLM-0137,2025-08-09,British Columbia,Comprehensive,Broker,Approved,5693.1,19,2,9.4,15
+CLM-0138,2025-01-12,Manitoba,Collision,Phone,Approved,13417.08,17,5,9.9,10
+CLM-0139,2025-05-07,Ontario,Collision,Mobile App,Under Review,5542.61,13,2,12.0,9
+CLM-0140,2025-06-09,Quebec,Property Damage,Online,Approved,2844.13,9,3,7.9,17
+CLM-0141,2025-12-25,British Columbia,Collision,Mobile App,Approved,5168.69,19,4,4.1,11
+CLM-0142,2025-03-20,Ontario,Weather,Mobile App,Rejected,8766.41,1,2,15.6,3
+CLM-0143,2025-04-11,British Columbia,Collision,Online,Approved,5585.71,12,2,6.4,20
+CLM-0144,2025-05-30,British Columbia,Collision,Online,Approved,7922.72,4,1,16.6,1
+CLM-0145,2025-12-29,Ontario,Property Damage,Mobile App,Approved,4849.71,19,1,3.9,14
+CLM-0146,2025-11-08,Alberta,Weather,Online,Approved,7524.45,2,3,10.2,13
+CLM-0147,2025-01-13,Quebec,Collision,Phone,Pending,4452.49,8,5,9.8,12
+CLM-0148,2025-03-27,Ontario,Collision,Mobile App,Approved,3325.03,8,2,14.9,1
+CLM-0149,2025-10-27,Alberta,Collision,Phone,Approved,6802.74,6,3,2.7,10
+CLM-0150,2025-01-22,Alberta,Comprehensive,Phone,Approved,6539.94,11,5,16.4,18
+CLM-0151,2025-11-09,Ontario,Comprehensive,Phone,Pending,7325.17,16,4,9.7,5
+CLM-0152,2025-04-13,Quebec,Collision,Online,Approved,11586.02,9,1,10.6,14
+CLM-0153,2025-12-01,Quebec,Collision,Mobile App,Under Review,8335.57,19,3,9.3,18
+CLM-0154,2025-04-18,Ontario,Comprehensive,Phone,Approved,2371.32,13,1,0.8,19
+CLM-0155,2025-06-08,Manitoba,Weather,Online,Pending,4512.7,34,2,9.0,10
+CLM-0156,2025-08-30,Quebec,Property Damage,Phone,Approved,3289.08,11,2,4.9,6
+CLM-0157,2025-02-16,Ontario,Comprehensive,Mobile App,Approved,3598.91,13,4,6.3,14
+CLM-0158,2025-07-23,Quebec,Collision,Online,Approved,6811.48,15,1,11.8,10
+CLM-0159,2025-07-04,Ontario,Collision,Mobile App,Rejected,4183.91,3,2,9.1,13
+CLM-0160,2025-10-14,Manitoba,Collision,Broker,Under Review,4187.99,21,2,1.9,15
+CLM-0161,2025-12-30,British Columbia,Theft,Mobile App,Approved,12376.28,19,2,1.5,14
+CLM-0162,2025-08-31,British Columbia,Weather,Mobile App,Approved,3754.83,8,4,3.5,5
+CLM-0163,2025-05-30,Ontario,Weather,Mobile App,Under Review,7490.48,9,2,3.6,15
+CLM-0164,2025-05-29,Quebec,Weather,Mobile App,Approved,7762.96,8,2,11.0,11
+CLM-0165,2025-06-02,Ontario,Weather,Online,Approved,4593.87,7,3,3.4,19
+CLM-0166,2025-10-25,Ontario,Weather,Broker,Approved,3502.45,13,4,15.9,13
+CLM-0167,2025-04-28,Ontario,Collision,Phone,Pending,2634.2,32,1,3.9,18
+CLM-0168,2025-03-02,Quebec,Collision,Phone,Pending,1485.34,24,5,1.8,20
+CLM-0169,2025-05-03,Ontario,Collision,Mobile App,Pending,7123.76,11,5,15.8,20
+CLM-0170,2025-01-09,Quebec,Comprehensive,Mobile App,Under Review,4617.67,12,4,5.5,15
+CLM-0171,2025-02-08,British Columbia,Collision,Broker,Approved,7797.98,15,3,7.8,12
+CLM-0172,2025-02-02,Ontario,Weather,Phone,Approved,2828.18,8,4,17.3,2
+CLM-0173,2025-10-09,Ontario,Property Damage,Phone,Approved,9316.39,13,3,17.0,8
+CLM-0174,2025-09-21,Ontario,Comprehensive,Phone,Approved,4881.46,15,2,12.9,9
+CLM-0175,2025-09-12,British Columbia,Collision,Phone,Approved,4493.51,8,2,1.4,16
+CLM-0176,2025-06-18,Quebec,Collision,Phone,Approved,1048.05,14,1,10.8,12
+CLM-0177,2025-09-19,Ontario,Collision,Online,Approved,3739.44,9,5,17.8,9
+CLM-0178,2025-02-28,Quebec,Weather,Online,Pending,6545.06,11,2,17.1,3
+CLM-0179,2025-11-25,Ontario,Property Damage,Broker,Approved,7178.34,9,2,2.1,15
+CLM-0180,2025-07-02,Quebec,Property Damage,Phone,Approved,3129.29,10,5,7.2,9
+CLM-0181,2025-12-09,Manitoba,Collision,Mobile App,Pending,12560.74,8,3,5.8,0
+CLM-0182,2025-02-25,Quebec,Comprehensive,Broker,Pending,1850.36,32,4,2.5,5
+CLM-0183,2025-07-01,British Columbia,Comprehensive,Online,Rejected,4707.55,8,2,12.6,18
+CLM-0184,2025-09-12,Quebec,Theft,Online,Rejected,5751.71,1,2,5.1,2
+CLM-0185,2025-06-30,Ontario,Theft,Online,Pending,6364.58,32,4,6.3,8
+CLM-0186,2025-06-12,Ontario,Collision,Mobile App,Approved,5423.52,19,3,1.8,10
+CLM-0187,2025-03-02,Ontario,Weather,Online,Approved,4998.2,2,1,9.1,1
+CLM-0188,2025-05-20,Alberta,Collision,Phone,Pending,2456.9,12,5,3.0,3
+CLM-0189,2025-03-29,British Columbia,Weather,Mobile App,Approved,8741.83,9,3,7.9,19
+CLM-0190,2025-04-21,British Columbia,Collision,Mobile App,Approved,8632.48,12,4,2.8,12
+CLM-0191,2025-09-07,Quebec,Collision,Online,Approved,5980.27,16,2,17.2,4
+CLM-0192,2025-08-19,Ontario,Weather,Online,Approved,7137.29,10,3,2.8,3
+CLM-0193,2025-08-10,British Columbia,Collision,Online,Approved,10941.36,14,4,9.5,8
+CLM-0194,2025-05-13,Ontario,Comprehensive,Online,Approved,5255.07,2,5,3.7,15
+CLM-0195,2025-12-17,Ontario,Comprehensive,Online,Rejected,11691.24,10,2,1.6,15
+CLM-0196,2025-02-01,British Columbia,Collision,Phone,Under Review,7471.1,27,4,3.8,4
+CLM-0197,2025-05-06,Manitoba,Property Damage,Mobile App,Approved,1717.32,12,5,1.2,15
+CLM-0198,2025-02-13,British Columbia,Weather,Phone,Under Review,4716.15,16,4,2.7,18
+CLM-0199,2025-05-04,Ontario,Weather,Broker,Approved,7312.12,7,1,9.0,4
+CLM-0200,2025-12-18,British Columbia,Collision,Online,Under Review,10947.91,28,1,11.8,0
+CLM-0201,2025-05-14,Ontario,Comprehensive,Mobile App,Under Review,4072.94,5,2,1.8,20
+CLM-0202,2025-11-28,Quebec,Collision,Broker,Approved,2581.08,7,1,8.1,10
+CLM-0203,2025-06-30,British Columbia,Collision,Mobile App,Rejected,4236.93,2,4,10.5,16
+CLM-0204,2025-09-13,Ontario,Collision,Mobile App,Under Review,1859.28,26,5,4.4,6
+CLM-0205,2025-06-16,Ontario,Weather,Phone,Under Review,6486.47,17,3,6.8,6
+CLM-0206,2025-04-08,Ontario,Weather,Online,Under Review,3021.4,28,3,1.5,4
+CLM-0207,2025-10-06,Manitoba,Theft,Online,Approved,2691.75,15,4,4.1,4
+CLM-0208,2025-12-20,Alberta,Comprehensive,Phone,Approved,6261.89,13,3,8.5,9
+CLM-0209,2025-04-07,Quebec,Comprehensive,Mobile App,Under Review,9189.2,17,3,17.8,2
+CLM-0210,2025-10-12,British Columbia,Comprehensive,Phone,Pending,2236.48,13,3,17.9,17
+CLM-0211,2025-04-06,Alberta,Comprehensive,Broker,Pending,4090.25,23,2,17.6,10
+CLM-0212,2025-09-19,Ontario,Comprehensive,Phone,Approved,3226.48,15,1,7.7,19
+CLM-0213,2025-10-15,Manitoba,Collision,Online,Pending,11262.03,35,3,1.6,10
+CLM-0214,2025-06-14,Ontario,Collision,Phone,Approved,4692.32,12,5,6.0,6
+CLM-0215,2025-09-26,Alberta,Weather,Broker,Pending,1968.58,34,1,4.4,10
+CLM-0216,2025-04-10,British Columbia,Comprehensive,Broker,Approved,3585.71,20,2,0.5,3
+CLM-0217,2025-01-29,British Columbia,Weather,Phone,Pending,8013.5,22,2,1.9,17
+CLM-0218,2025-02-05,Manitoba,Collision,Online,Under Review,4187.54,15,5,8.3,15
+CLM-0219,2025-06-13,Ontario,Comprehensive,Broker,Approved,2398.97,4,3,6.2,3
+CLM-0220,2025-11-26,Alberta,Collision,Online,Approved,4554.23,7,3,3.4,12
+CLM-0221,2025-02-16,Ontario,Collision,Mobile App,Approved,2469.66,19,4,12.9,11
+CLM-0222,2025-06-16,Alberta,Collision,Online,Under Review,4352.01,8,2,6.6,4
+CLM-0223,2025-09-14,Ontario,Collision,Online,Pending,3406.85,19,4,15.4,2
+CLM-0224,2025-03-15,Ontario,Weather,Phone,Approved,14306.63,15,1,4.5,15
+CLM-0225,2025-09-21,Ontario,Collision,Phone,Approved,1203.32,6,1,9.8,5
+CLM-0226,2025-04-22,Ontario,Property Damage,Phone,Approved,1712.14,21,5,3.5,10
+CLM-0227,2025-10-23,Alberta,Comprehensive,Phone,Approved,2397.72,14,4,9.0,5
+CLM-0228,2025-07-31,British Columbia,Comprehensive,Mobile App,Under Review,1837.99,5,1,2.9,13
+CLM-0229,2025-07-19,British Columbia,Comprehensive,Phone,Pending,4736.94,14,3,3.1,1
+CLM-0230,2025-03-06,Ontario,Collision,Phone,Approved,2982.43,16,1,11.1,7
+CLM-0231,2025-06-19,Ontario,Weather,Phone,Under Review,1404.85,26,4,4.9,11
+CLM-0232,2025-11-09,Ontario,Theft,Online,Approved,4628.8,20,4,3.3,9
+CLM-0233,2025-01-08,British Columbia,Property Damage,Broker,Under Review,2536.26,26,2,16.7,12
+CLM-0234,2025-10-04,Ontario,Comprehensive,Online,Approved,2280.95,3,2,1.0,3
+CLM-0235,2025-06-29,Ontario,Collision,Broker,Pending,11088.28,28,2,10.3,9
+CLM-0236,2025-09-20,Ontario,Weather,Online,Under Review,5322.84,7,2,10.0,15
+CLM-0237,2025-08-31,Alberta,Collision,Mobile App,Approved,6075.24,3,2,4.7,7
+CLM-0238,2025-06-07,Ontario,Collision,Phone,Pending,6625.06,27,2,8.3,3
+CLM-0239,2025-04-23,Alberta,Collision,Mobile App,Under Review,6411.03,16,3,1.8,17
+CLM-0240,2025-08-17,Alberta,Theft,Phone,Approved,3703.16,14,5,13.0,16
+CLM-0241,2025-02-21,British Columbia,Property Damage,Online,Approved,1891.4,19,4,4.1,14
+CLM-0242,2025-08-02,British Columbia,Property Damage,Mobile App,Pending,3325.74,9,2,3.6,16
+CLM-0243,2025-02-04,British Columbia,Theft,Broker,Approved,3658.05,12,5,5.8,16
+CLM-0244,2025-08-26,Ontario,Collision,Broker,Approved,1192.58,18,2,16.3,15
+CLM-0245,2025-08-18,Quebec,Weather,Phone,Approved,1902.11,10,5,14.4,10
+CLM-0246,2025-01-31,Alberta,Comprehensive,Broker,Rejected,2797.44,8,2,17.1,0
+CLM-0247,2025-10-04,Alberta,Property Damage,Mobile App,Approved,5394.19,11,3,11.8,12
+CLM-0248,2025-06-01,British Columbia,Collision,Broker,Approved,5297.05,20,2,12.0,5
+CLM-0249,2025-10-15,Ontario,Weather,Phone,Under Review,2159.06,6,4,8.7,16
+CLM-0250,2025-01-16,Alberta,Collision,Broker,Approved,2197.59,19,2,16.3,9
+CLM-0251,2025-03-07,British Columbia,Collision,Broker,Under Review,9723.36,25,5,9.3,19
+CLM-0252,2025-06-30,Quebec,Comprehensive,Mobile App,Approved,3181.4,18,1,6.5,12
+CLM-0253,2025-03-10,Manitoba,Collision,Phone,Under Review,657.83,15,3,11.6,11
+CLM-0254,2025-05-01,Alberta,Collision,Phone,Pending,4478.31,22,1,9.9,19
+CLM-0255,2025-08-30,Alberta,Property Damage,Mobile App,Approved,4686.46,9,5,2.4,9
+CLM-0256,2025-02-22,Quebec,Comprehensive,Phone,Under Review,1593.44,11,3,7.2,7
+CLM-0257,2025-09-05,Ontario,Weather,Broker,Approved,4106.12,19,4,5.8,7
+CLM-0258,2025-02-07,Quebec,Collision,Phone,Approved,5352.03,12,5,15.3,18
+CLM-0259,2025-03-05,Alberta,Property Damage,Online,Approved,1411.17,16,3,6.9,15
+CLM-0260,2025-08-03,Ontario,Comprehensive,Broker,Pending,7611.18,10,1,14.8,3
+CLM-0261,2025-10-17,Ontario,Property Damage,Online,Approved,3407.77,17,2,8.1,10
+CLM-0262,2025-03-04,Quebec,Property Damage,Online,Approved,2369.66,15,2,13.6,7
+CLM-0263,2025-04-20,Ontario,Comprehensive,Broker,Approved,3195.59,21,5,2.6,13
+CLM-0264,2025-12-04,Ontario,Weather,Broker,Approved,1594.26,4,5,16.7,1
+CLM-0265,2025-12-28,Ontario,Collision,Mobile App,Approved,1901.1,12,3,8.8,14
+CLM-0266,2025-08-01,Ontario,Collision,Online,Approved,3531.68,12,5,4.8,15
+CLM-0267,2025-06-13,Ontario,Property Damage,Online,Approved,2317.72,12,2,4.5,4
+CLM-0268,2025-05-07,British Columbia,Weather,Mobile App,Approved,3363.69,3,4,4.9,3
+CLM-0269,2025-08-12,Ontario,Collision,Online,Pending,10839.23,21,2,6.7,13
+CLM-0270,2025-08-04,Quebec,Comprehensive,Online,Approved,5327.56,7,2,13.0,5
+CLM-0271,2025-04-18,Quebec,Weather,Phone,Pending,1074.98,25,2,17.1,19
+CLM-0272,2025-01-09,Ontario,Property Damage,Phone,Approved,6037.03,6,3,12.1,16
+CLM-0273,2025-02-25,Ontario,Weather,Mobile App,Approved,2862.56,10,2,9.9,20
+CLM-0274,2025-12-16,British Columbia,Comprehensive,Broker,Approved,5652.74,14,2,8.2,11
+CLM-0275,2025-06-02,Ontario,Property Damage,Broker,Approved,2332.44,3,2,14.9,19
+CLM-0276,2025-06-26,Ontario,Collision,Online,Approved,5191.08,17,1,15.3,0
+CLM-0277,2025-06-20,Manitoba,Weather,Phone,Rejected,1677.87,11,5,5.4,6
+CLM-0278,2025-10-13,Manitoba,Comprehensive,Phone,Approved,4407.35,3,2,17.2,0
+CLM-0279,2025-01-24,Quebec,Property Damage,Online,Approved,5151.03,3,1,7.2,14
+CLM-0280,2025-01-31,Ontario,Comprehensive,Online,Pending,1104.47,31,3,14.4,10
+CLM-0281,2025-04-11,British Columbia,Comprehensive,Phone,Approved,6118.83,7,5,17.4,6
+CLM-0282,2025-06-27,British Columbia,Property Damage,Online,Approved,1886.04,19,2,12.7,6
+CLM-0283,2025-09-02,Ontario,Comprehensive,Phone,Approved,9632.88,11,5,3.1,13
+CLM-0284,2025-06-29,British Columbia,Weather,Broker,Approved,6290.29,8,4,10.6,3
+CLM-0285,2025-06-11,Ontario,Comprehensive,Online,Approved,5110.13,7,4,2.3,10
+CLM-0286,2025-12-09,Ontario,Property Damage,Phone,Rejected,2726.77,10,2,14.2,12
+CLM-0287,2025-02-28,Alberta,Collision,Broker,Under Review,19533.82,7,1,5.2,5
+CLM-0288,2025-07-28,Ontario,Comprehensive,Broker,Approved,2613.39,10,2,12.6,4
+CLM-0289,2025-07-17,Ontario,Comprehensive,Mobile App,Pending,1756.9,17,5,16.4,7
+CLM-0290,2025-06-22,Quebec,Collision,Phone,Rejected,3067.51,3,4,3.4,12
+CLM-0291,2025-10-22,Manitoba,Collision,Mobile App,Approved,9111.08,9,4,7.2,5
+CLM-0292,2025-04-08,Alberta,Property Damage,Online,Rejected,3228.17,8,5,11.7,7
+CLM-0293,2025-12-15,Quebec,Property Damage,Phone,Pending,2927.43,26,2,7.7,11
+CLM-0294,2025-05-02,Manitoba,Property Damage,Online,Under Review,2243.7,7,2,3.3,3
+CLM-0295,2025-07-18,Ontario,Collision,Phone,Under Review,4492.61,26,5,0.7,11
+CLM-0296,2025-07-10,Alberta,Collision,Phone,Approved,3400.47,19,3,7.4,2
+CLM-0297,2025-11-07,Ontario,Collision,Online,Approved,7310.77,15,2,11.8,2
+CLM-0298,2025-06-10,Ontario,Theft,Broker,Approved,3614.4,20,2,10.4,4
+CLM-0299,2025-04-14,British Columbia,Weather,Phone,Approved,2531.08,10,5,3.0,6
+CLM-0300,2025-01-08,Alberta,Collision,Online,Approved,8641.13,18,1,8.2,0
+CLM-0301,2025-05-13,Alberta,Property Damage,Online,Under Review,1526.12,23,1,6.8,20
+CLM-0302,2025-10-29,Ontario,Collision,Phone,Approved,5173.96,13,4,5.1,6
+CLM-0303,2025-01-04,Ontario,Collision,Phone,Approved,1187.4,5,1,13.2,16
+CLM-0304,2025-11-24,Quebec,Collision,Phone,Under Review,1795.75,18,1,5.7,18
+CLM-0305,2025-07-18,Ontario,Collision,Online,Approved,3779.9,20,5,9.8,16
+CLM-0306,2025-02-21,Ontario,Property Damage,Broker,Approved,2114.78,21,3,16.6,17
+CLM-0307,2025-04-21,Ontario,Weather,Mobile App,Under Review,2733.95,16,4,9.8,2
+CLM-0308,2025-07-22,Alberta,Collision,Phone,Approved,7764.11,6,3,11.2,7
+CLM-0309,2025-04-26,British Columbia,Comprehensive,Broker,Approved,5962.22,16,1,1.5,15
+CLM-0310,2025-02-09,Alberta,Property Damage,Mobile App,Approved,3671.56,3,1,3.4,12
+CLM-0311,2025-09-01,Ontario,Weather,Mobile App,Under Review,1903.29,8,4,2.0,0
+CLM-0312,2025-09-03,Ontario,Property Damage,Broker,Approved,2814.24,13,1,13.8,11
+CLM-0313,2025-02-13,Quebec,Collision,Mobile App,Approved,14135.15,21,3,15.1,16
+CLM-0314,2025-04-13,British Columbia,Property Damage,Mobile App,Approved,11564.37,8,2,3.5,17
+CLM-0315,2025-03-31,British Columbia,Collision,Broker,Approved,8693.36,10,2,4.1,8
+CLM-0316,2025-08-29,British Columbia,Weather,Phone,Under Review,1954.7,13,5,6.0,4
+CLM-0317,2025-09-24,Quebec,Comprehensive,Online,Approved,3330.07,10,4,10.7,6
+CLM-0318,2025-09-23,Ontario,Property Damage,Online,Under Review,3518.85,5,4,11.3,6
+CLM-0319,2025-12-09,Ontario,Collision,Phone,Approved,5064.8,13,2,12.4,7
+CLM-0320,2025-10-08,Alberta,Comprehensive,Phone,Approved,6860.55,13,2,16.3,6
+CLM-0321,2025-04-28,Ontario,Weather,Phone,Under Review,6154.08,12,4,5.5,9
+CLM-0322,2025-02-09,Quebec,Property Damage,Phone,Approved,1455.25,7,1,11.9,0
+CLM-0323,2025-08-13,Alberta,Comprehensive,Phone,Approved,2338.76,17,2,10.2,5
+CLM-0324,2025-12-01,Quebec,Weather,Mobile App,Under Review,7065.09,9,4,5.6,6
+CLM-0325,2025-12-22,Quebec,Weather,Online,Approved,9011.35,2,4,16.4,3
+CLM-0326,2025-03-26,Alberta,Collision,Online,Approved,5633.41,2,1,1.9,18
+CLM-0327,2025-03-28,Quebec,Comprehensive,Broker,Under Review,8818.91,27,4,12.9,14
+CLM-0328,2025-01-14,British Columbia,Comprehensive,Mobile App,Approved,3875.48,9,3,13.2,19
+CLM-0329,2025-02-21,Quebec,Property Damage,Mobile App,Approved,1634.42,4,2,16.5,11
+CLM-0330,2025-07-22,Ontario,Collision,Mobile App,Approved,7130.57,19,4,9.4,2
+CLM-0331,2025-07-19,Alberta,Collision,Mobile App,Approved,23360.09,4,5,5.9,18
+CLM-0332,2025-05-16,Alberta,Weather,Phone,Approved,1602.9,8,3,14.9,9
+CLM-0333,2025-04-24,Ontario,Weather,Phone,Pending,9477.09,8,2,13.9,14
+CLM-0334,2025-10-30,Ontario,Weather,Online,Approved,5606.31,15,2,9.1,8
+CLM-0335,2025-06-17,Quebec,Weather,Broker,Pending,2470.05,27,3,13.9,10
+CLM-0336,2025-10-23,British Columbia,Property Damage,Mobile App,Approved,759.23,17,1,5.0,10
+CLM-0337,2025-12-18,Ontario,Theft,Phone,Approved,833.54,7,3,10.7,5
+CLM-0338,2025-04-26,Ontario,Theft,Phone,Approved,2978.41,8,1,15.6,11
+CLM-0339,2025-03-15,Ontario,Comprehensive,Phone,Pending,4585.96,34,1,5.9,15
+CLM-0340,2025-12-14,Ontario,Comprehensive,Online,Approved,6134.91,18,3,8.8,0
+CLM-0341,2025-08-20,Manitoba,Collision,Online,Approved,9489.08,2,4,17.1,2
+CLM-0342,2025-04-17,Alberta,Property Damage,Online,Under Review,3681.9,22,5,14.4,17
+CLM-0343,2025-08-15,Ontario,Collision,Mobile App,Pending,5283.7,30,1,16.0,11
+CLM-0344,2025-07-07,British Columbia,Collision,Phone,Approved,3863.86,13,2,7.1,20
+CLM-0345,2025-11-27,Ontario,Property Damage,Mobile App,Under Review,3958.27,20,3,17.9,12
+CLM-0346,2025-04-04,Ontario,Comprehensive,Broker,Approved,2268.8,2,3,2.9,13
+CLM-0347,2025-12-28,British Columbia,Collision,Online,Approved,2039.16,2,5,9.4,18
+CLM-0348,2025-12-08,British Columbia,Theft,Online,Approved,4511.35,2,4,8.7,13
+CLM-0349,2025-03-07,Manitoba,Weather,Mobile App,Approved,6430.73,5,3,14.4,6
+CLM-0350,2025-03-02,British Columbia,Collision,Online,Approved,1754.08,21,1,16.4,11
+CLM-0351,2025-07-14,Alberta,Collision,Mobile App,Rejected,3350.94,9,1,13.2,4
+CLM-0352,2025-01-17,Quebec,Collision,Online,Approved,4954.42,17,1,11.4,7
+CLM-0353,2025-04-20,Quebec,Theft,Broker,Rejected,4344.12,5,4,7.8,14
+CLM-0354,2025-06-08,British Columbia,Theft,Mobile App,Under Review,6013.92,28,2,9.3,3
+CLM-0355,2025-12-20,Manitoba,Collision,Online,Pending,13889.01,13,2,9.3,14
+CLM-0356,2025-12-29,Quebec,Theft,Online,Pending,838.01,33,4,0.6,12
+CLM-0357,2025-02-25,Quebec,Collision,Mobile App,Pending,14271.72,8,5,9.2,6
+CLM-0358,2025-11-22,Ontario,Comprehensive,Online,Under Review,10008.54,5,3,15.4,0
+CLM-0359,2025-02-03,British Columbia,Weather,Phone,Approved,6818.23,3,5,12.8,14
+CLM-0360,2025-10-01,Alberta,Collision,Phone,Approved,5566.46,17,4,14.4,17
+CLM-0361,2025-11-05,Alberta,Collision,Online,Approved,3104.34,7,4,7.2,15
+CLM-0362,2025-11-22,British Columbia,Comprehensive,Broker,Approved,6151.32,11,5,9.6,8
+CLM-0363,2025-03-23,Manitoba,Property Damage,Broker,Approved,3621.58,11,1,0.8,13
+CLM-0364,2025-11-23,Manitoba,Weather,Phone,Pending,3193.46,30,4,7.0,8
+CLM-0365,2025-02-12,Ontario,Weather,Mobile App,Approved,6657.4,8,5,8.6,7
+CLM-0366,2025-07-09,British Columbia,Collision,Online,Under Review,9063.41,5,5,4.7,6
+CLM-0367,2025-06-21,British Columbia,Collision,Online,Approved,11006.44,9,3,0.8,4
+CLM-0368,2025-04-26,Ontario,Theft,Phone,Approved,2555.44,7,4,12.5,20
+CLM-0369,2025-01-09,Ontario,Collision,Mobile App,Approved,10141.46,16,5,7.9,13
+CLM-0370,2025-10-09,Ontario,Weather,Online,Approved,3233.43,17,5,7.6,3
+CLM-0371,2025-05-03,Quebec,Property Damage,Online,Approved,3511.12,3,5,4.6,18
+CLM-0372,2025-08-30,Alberta,Collision,Phone,Approved,6289.9,17,5,9.8,3
+CLM-0373,2025-05-30,Manitoba,Theft,Mobile App,Approved,8565.05,3,2,8.0,12
+CLM-0374,2025-05-17,Alberta,Collision,Online,Approved,7653.59,14,4,8.6,3
+CLM-0375,2025-11-20,Manitoba,Comprehensive,Phone,Approved,2870.61,9,3,10.5,7
+CLM-0376,2025-02-04,Ontario,Comprehensive,Broker,Approved,752.66,8,5,0.3,13
+CLM-0377,2025-09-26,Quebec,Comprehensive,Phone,Approved,4974.0,11,5,16.4,20
+CLM-0378,2025-09-30,Ontario,Property Damage,Online,Approved,3417.94,8,5,1.5,20
+CLM-0379,2025-05-19,Alberta,Property Damage,Online,Approved,1227.54,17,3,8.2,18
+CLM-0380,2025-04-06,Quebec,Weather,Phone,Approved,4767.67,21,3,3.9,4
+CLM-0381,2025-01-02,Manitoba,Weather,Phone,Approved,4003.54,18,1,9.5,1
+CLM-0382,2025-12-08,Quebec,Comprehensive,Mobile App,Rejected,8103.64,7,4,5.2,19
+CLM-0383,2025-12-12,Ontario,Collision,Broker,Under Review,14871.95,17,3,15.5,19
+CLM-0384,2025-03-29,Ontario,Property Damage,Broker,Under Review,5618.6,16,3,7.3,5
+CLM-0385,2025-01-12,Ontario,Weather,Mobile App,Approved,3852.71,17,4,11.6,0
+CLM-0386,2025-02-14,Ontario,Collision,Phone,Approved,5208.48,13,5,4.6,13
+CLM-0387,2025-01-25,British Columbia,Comprehensive,Phone,Approved,2078.09,11,1,0.5,1
+CLM-0388,2025-10-31,British Columbia,Comprehensive,Mobile App,Rejected,2356.75,6,3,7.4,0
+CLM-0389,2025-11-22,Quebec,Collision,Online,Rejected,4548.76,6,4,9.7,19
+CLM-0390,2025-02-25,Quebec,Property Damage,Broker,Under Review,2669.27,18,5,8.4,10
+CLM-0391,2025-09-30,British Columbia,Collision,Broker,Under Review,1872.93,22,4,17.3,2
+CLM-0392,2025-03-07,Quebec,Theft,Online,Approved,9786.86,10,4,12.8,13
+CLM-0393,2025-05-15,Ontario,Theft,Phone,Rejected,10639.56,12,5,17.9,7
+CLM-0394,2025-08-07,Ontario,Theft,Online,Rejected,9593.16,12,5,5.5,11
+CLM-0395,2025-09-20,British Columbia,Comprehensive,Online,Approved,9052.61,10,4,14.2,18
+CLM-0396,2025-11-16,Quebec,Collision,Phone,Under Review,17538.85,27,2,10.1,4
+CLM-0397,2025-01-17,Ontario,Property Damage,Phone,Approved,1789.47,5,3,11.1,13
+CLM-0398,2025-03-13,Alberta,Theft,Broker,Under Review,15180.31,28,4,17.7,17
+CLM-0399,2025-04-13,British Columbia,Comprehensive,Mobile App,Rejected,2858.83,5,1,11.8,8
+CLM-0400,2025-04-24,Ontario,Weather,Mobile App,Approved,5998.93,13,4,16.2,20
+CLM-0401,2025-12-31,Ontario,Collision,Online,Pending,1572.74,15,3,13.1,9
+CLM-0402,2025-10-11,Quebec,Weather,Online,Approved,2877.3,10,5,2.5,9
+CLM-0403,2025-04-27,British Columbia,Collision,Online,Rejected,9082.98,5,2,12.6,18
+CLM-0404,2025-12-21,Ontario,Collision,Online,Rejected,7586.83,10,5,8.8,13
+CLM-0405,2025-07-02,Quebec,Comprehensive,Mobile App,Pending,2821.55,10,3,16.6,18
+CLM-0406,2025-07-02,Ontario,Collision,Phone,Under Review,5206.96,25,3,14.6,16
+CLM-0407,2025-06-08,Quebec,Collision,Online,Approved,3281.4,20,4,2.1,14
+CLM-0408,2025-02-22,Ontario,Collision,Mobile App,Approved,9067.4,13,3,2.6,5
+CLM-0409,2025-12-08,British Columbia,Comprehensive,Phone,Approved,8493.19,12,5,1.4,8
+CLM-0410,2025-01-06,Ontario,Theft,Online,Approved,2534.18,15,1,9.0,18
+CLM-0411,2025-03-05,Ontario,Collision,Online,Approved,4865.64,5,4,1.6,12
+CLM-0412,2025-03-25,Quebec,Property Damage,Broker,Approved,1146.25,16,5,13.1,5
+CLM-0413,2025-04-12,Ontario,Theft,Broker,Approved,5100.56,6,2,10.0,6
+CLM-0414,2025-02-18,Ontario,Collision,Online,Approved,6878.91,15,2,15.1,16
+CLM-0415,2025-01-07,Ontario,Collision,Mobile App,Under Review,6044.2,12,3,5.2,3
+CLM-0416,2025-09-05,British Columbia,Weather,Mobile App,Approved,5328.02,16,4,9.4,2
+CLM-0417,2025-12-20,Quebec,Theft,Mobile App,Under Review,4026.96,24,5,2.3,16
+CLM-0418,2025-02-14,Manitoba,Comprehensive,Online,Approved,3409.03,6,4,15.9,6
+CLM-0419,2025-04-19,Ontario,Theft,Online,Approved,3965.79,14,4,3.3,16
+CLM-0420,2025-07-04,Ontario,Collision,Mobile App,Approved,3458.47,11,3,2.0,11
+CLM-0421,2025-12-05,Ontario,Comprehensive,Phone,Approved,2782.45,7,4,3.8,20
+CLM-0422,2025-09-11,Alberta,Property Damage,Broker,Approved,4206.83,13,2,14.6,11
+CLM-0423,2025-10-07,Manitoba,Collision,Broker,Approved,11017.43,21,3,2.1,18
+CLM-0424,2025-08-01,British Columbia,Property Damage,Online,Approved,1581.37,2,1,11.1,17
+CLM-0425,2025-06-02,British Columbia,Comprehensive,Broker,Approved,3400.58,21,1,13.5,4
+CLM-0426,2025-03-14,Ontario,Property Damage,Mobile App,Approved,1356.36,19,5,13.6,20
+CLM-0427,2025-11-12,Quebec,Comprehensive,Broker,Approved,2593.88,12,5,3.6,15
+CLM-0428,2025-10-21,Alberta,Comprehensive,Phone,Rejected,2894.93,9,3,1.3,2
+CLM-0429,2025-01-10,Ontario,Collision,Mobile App,Approved,5479.58,9,1,8.2,0
+CLM-0430,2025-09-19,Ontario,Collision,Phone,Under Review,5381.19,8,1,3.8,5
+CLM-0431,2025-01-31,Ontario,Property Damage,Broker,Rejected,3045.5,9,1,12.6,0
+CLM-0432,2025-09-27,Ontario,Collision,Mobile App,Under Review,6338.82,25,4,6.5,7
+CLM-0433,2025-10-29,Ontario,Collision,Broker,Rejected,2682.51,4,2,8.2,20
+CLM-0434,2025-02-17,Alberta,Collision,Phone,Approved,5508.99,16,2,2.2,10
+CLM-0435,2025-06-08,British Columbia,Collision,Online,Approved,7723.45,16,5,10.3,0
+CLM-0436,2025-02-15,Ontario,Theft,Online,Approved,2363.7,17,5,3.5,10
+CLM-0437,2025-07-27,Alberta,Comprehensive,Phone,Rejected,1016.14,5,4,12.3,4
+CLM-0438,2025-12-05,Manitoba,Weather,Phone,Pending,7351.29,18,2,1.5,17
+CLM-0439,2025-01-30,British Columbia,Collision,Broker,Approved,2202.99,10,3,17.6,1
+CLM-0440,2025-05-26,Alberta,Property Damage,Phone,Under Review,2131.83,26,2,12.4,16
+CLM-0441,2025-12-22,Ontario,Comprehensive,Broker,Approved,5618.89,20,5,3.4,9
+CLM-0442,2025-04-20,Quebec,Comprehensive,Mobile App,Approved,1900.78,10,1,0.5,0
+CLM-0443,2025-02-18,Ontario,Weather,Online,Pending,7039.38,35,4,6.2,14
+CLM-0444,2025-06-28,Ontario,Weather,Broker,Approved,2492.29,13,3,2.9,9
+CLM-0445,2025-07-05,Quebec,Weather,Broker,Pending,2286.09,18,4,4.1,16
+CLM-0446,2025-08-30,Alberta,Collision,Phone,Rejected,2161.67,1,3,15.7,12
+CLM-0447,2025-04-25,British Columbia,Collision,Online,Approved,3077.64,14,1,10.9,16
+CLM-0448,2025-12-15,British Columbia,Property Damage,Broker,Approved,4381.26,14,4,3.3,9
+CLM-0449,2025-07-10,British Columbia,Collision,Mobile App,Approved,3386.27,21,4,10.1,0
+CLM-0450,2025-04-15,Ontario,Property Damage,Broker,Pending,5694.92,28,3,4.8,2
+CLM-0451,2025-12-17,Ontario,Comprehensive,Mobile App,Approved,3678.19,2,2,17.6,9
+CLM-0452,2025-12-04,Ontario,Comprehensive,Mobile App,Under Review,3889.4,19,2,0.8,8
+CLM-0453,2025-07-02,Ontario,Theft,Phone,Under Review,2441.82,23,3,13.2,16
+CLM-0454,2025-01-10,Quebec,Property Damage,Broker,Approved,6218.95,11,2,14.0,8
+CLM-0455,2025-08-06,Ontario,Collision,Phone,Approved,7762.6,10,2,1.4,18
+CLM-0456,2025-07-22,Alberta,Collision,Mobile App,Pending,7627.03,30,2,3.3,3
+CLM-0457,2025-02-24,Quebec,Property Damage,Online,Pending,2745.99,25,1,7.0,8
+CLM-0458,2025-08-20,Quebec,Comprehensive,Phone,Approved,1466.85,15,5,15.7,15
+CLM-0459,2025-11-03,Alberta,Collision,Mobile App,Approved,5432.41,11,2,9.8,2
+CLM-0460,2025-02-08,Alberta,Comprehensive,Phone,Approved,5018.26,7,1,11.9,6
+CLM-0461,2025-09-22,Manitoba,Property Damage,Broker,Under Review,4292.22,17,1,14.1,15
+CLM-0462,2025-02-21,British Columbia,Theft,Phone,Approved,5558.62,21,5,14.9,12
+CLM-0463,2025-10-01,Quebec,Comprehensive,Mobile App,Under Review,4511.81,20,3,8.7,16
+CLM-0464,2025-06-02,Quebec,Comprehensive,Mobile App,Approved,2258.2,16,2,9.3,10
+CLM-0465,2025-01-03,Quebec,Collision,Phone,Under Review,3151.06,8,3,13.0,18
+CLM-0466,2025-12-19,Ontario,Comprehensive,Broker,Approved,1612.02,21,1,4.9,18
+CLM-0467,2025-03-02,Alberta,Collision,Phone,Approved,9109.62,6,2,15.4,20
+CLM-0468,2025-08-06,Ontario,Comprehensive,Broker,Under Review,10711.63,29,2,0.6,2
+CLM-0469,2025-03-08,British Columbia,Property Damage,Broker,Under Review,14541.64,16,5,3.7,12
+CLM-0470,2025-12-07,Manitoba,Collision,Mobile App,Approved,5675.03,20,1,14.4,2
+CLM-0471,2025-09-27,Alberta,Collision,Online,Approved,6100.71,19,3,6.3,4
+CLM-0472,2025-10-21,Alberta,Collision,Online,Approved,4476.64,17,4,2.9,6
+CLM-0473,2025-06-07,Ontario,Weather,Broker,Approved,4578.01,20,5,3.5,13
+CLM-0474,2025-06-20,Manitoba,Property Damage,Phone,Approved,1611.32,14,3,9.6,9
+CLM-0475,2025-08-20,Ontario,Collision,Phone,Under Review,4417.34,26,2,15.3,18
+CLM-0476,2025-10-14,Ontario,Weather,Online,Approved,2298.93,5,2,1.5,6
+CLM-0477,2025-11-06,Ontario,Comprehensive,Phone,Pending,2999.87,9,2,0.7,12
+CLM-0478,2025-01-07,Ontario,Comprehensive,Mobile App,Approved,2212.19,12,4,8.5,16
+CLM-0479,2025-08-31,Alberta,Weather,Online,Approved,5521.91,18,2,17.2,20
+CLM-0480,2025-02-09,Alberta,Collision,Phone,Pending,7315.06,29,4,5.2,5
+CLM-0481,2025-04-16,Ontario,Collision,Mobile App,Approved,5982.59,12,4,17.3,15
+CLM-0482,2025-10-30,Ontario,Property Damage,Online,Pending,1989.63,22,5,16.0,1
+CLM-0483,2025-04-02,Ontario,Collision,Broker,Approved,2073.7,14,2,5.2,11
+CLM-0484,2025-10-18,Ontario,Property Damage,Online,Under Review,4638.01,26,5,14.7,8
+CLM-0485,2025-06-18,Ontario,Collision,Mobile App,Rejected,4948.45,12,3,12.4,20
+CLM-0486,2025-03-26,British Columbia,Collision,Broker,Under Review,1334.58,7,4,9.3,16
+CLM-0487,2025-05-02,Ontario,Collision,Mobile App,Approved,5403.72,13,4,7.7,19
+CLM-0488,2025-07-13,Ontario,Comprehensive,Online,Approved,4540.36,9,5,14.7,17
+CLM-0489,2025-10-07,Ontario,Collision,Phone,Approved,1634.4,17,3,14.3,8
+CLM-0490,2025-08-10,Ontario,Collision,Broker,Approved,6850.69,12,4,13.7,15
+CLM-0491,2025-12-07,Ontario,Weather,Online,Approved,1472.36,21,2,18.0,0
+CLM-0492,2025-11-13,Ontario,Collision,Online,Approved,2932.86,10,3,8.7,11
+CLM-0493,2025-10-02,Quebec,Comprehensive,Online,Approved,1344.6,15,3,14.6,0
+CLM-0494,2025-08-09,Ontario,Collision,Mobile App,Approved,2729.24,4,4,15.6,15
+CLM-0495,2025-04-16,Alberta,Collision,Broker,Approved,2086.05,20,4,4.0,20
+CLM-0496,2025-05-31,Alberta,Collision,Broker,Approved,9074.17,5,1,0.9,14
+CLM-0497,2025-02-13,Ontario,Property Damage,Broker,Approved,2649.94,9,5,7.4,17
+CLM-0498,2025-05-17,Alberta,Collision,Phone,Pending,3641.77,31,4,15.4,4
+CLM-0499,2025-12-05,Quebec,Weather,Phone,Approved,7826.95,21,1,5.3,20
+CLM-0500,2025-06-05,Quebec,Weather,Phone,Approved,7581.26,11,5,12.7,11
